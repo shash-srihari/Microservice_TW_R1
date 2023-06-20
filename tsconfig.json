@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "lib": [
+        "es5",
+        "es6"
+     ],
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "esnext",
+    "sourceMap": true,
+    "outDir": "./build",
+    "baseUrl": ".",
+    "incremental": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules", "build"]
+}
