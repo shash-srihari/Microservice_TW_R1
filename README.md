@@ -15,7 +15,7 @@ Docker (optional, for containerization)
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/shash-srihari/Microservice_TW_R1.git
 
 
 cd your-repo
